@@ -1,4 +1,4 @@
-# postreact
+# Postreact
 An extremely fast, React-like JavaScript library for building modern user interfaces
 
 <p align="center">
